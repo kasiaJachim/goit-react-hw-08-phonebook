@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 15px;
+  height: 100vh;
+  text-align: center;
+  background-image: url('/src/images/phoneorange.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
