@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoit_react_hw_08_phonebook=self.webpackChunkgoit_react_hw_08_phonebook||[]).push([[674],{8674:function(e,n,o){o.r(n),o.d(n,{default:function(){return a}});var r="HomePage_wrapper__fbr7T",c=o(3329),a=function(){return(0,c.jsxs)("div",{className:r,children:[(0,c.jsx)("h1",{children:"Welcome to PhoneBook!"}),(0,c.jsx)("h3",{children:"Here you can easily create a new user account and organizing your contacts."})]})}}}]);
+//# sourceMappingURL=674.307f699e.chunk.js.map
